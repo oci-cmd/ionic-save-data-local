@@ -1,6 +1,6 @@
 # Praktikum Ionic: Data Mahasiswa (Local Storage & Validation)
 
-Repository ini berisi source code hasil praktikum Pertemuan 7 & 8 mata kuliah Pemrograman Bergerak.
+Repository ini berisi source code hasil praktikum Pertemuan 7 mata kuliah Pemrograman Bergerak.
 Aplikasi ini mendemonstrasikan cara membuat aplikasi CRUD sederhana dengan fitur:
 
 1.  **Reactive Forms**: Validasi input (Wajib diisi, Minimal karakter, Format angka).
